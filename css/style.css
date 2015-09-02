@@ -1,0 +1,69 @@
+td p,
+td .checkbox {
+  display: inline;
+}
+
+td .checkbox {
+  left: 10px;
+  top: 5px;
+  position: relative;
+  margin: 0;
+  float: right;
+  
+}
+
+#colourKey.p{
+  right: 0px !important;
+
+}
+
+#macm300box.checkbox{
+  left: 9px;
+  margin-top: 0;
+  position: relative;
+ 
+}
+
+ #table2 .checkbox{
+  left: 10px;
+  margin-top: 0;
+  position: relative;
+ 
+}
+
+#t3box1.checkbox{
+  margin-left: 0px;
+  margin-top: 0;
+  position: relative;
+}
+
+#t3box2.checkbox{
+  margin-left: 0px;
+  margin-top: 0;
+  position: relative;
+}
+
+#t3box3.checkbox{
+  margin-left: 0px;
+  margin-top: 0;
+  position: relative;
+}
+
+
+p  {
+    font-family:calibri;
+}
+
+strong  {
+    font-family:calibri;
+}
+
+div#ribbon {
+	padding-top: 20px;
+}
+
+.redBackground{
+  /*We need to override the boostrap background color values
+    for the red background to display properly.*/
+background-color:red !important; 
+}
